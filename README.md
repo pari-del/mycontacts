@@ -1,0 +1,1 @@
+This is my first React project: a simple phone book application. Users can add their information, view it on the web page, and delete entries as needed. It demonstrates basic React concepts such as state management and dynamic rendering.
